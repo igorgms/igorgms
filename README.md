@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Igor Gomes Firmino and I am currently a front-end developer. 
+## I'm Igor Gomes Firmino and I'm currently a front-end developer. 
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=igorgms&show_icons=true&theme=dark"> 
