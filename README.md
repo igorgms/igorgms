@@ -12,7 +12,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/igorgomes8/" target="blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Igor%20Gomes%20Firmino-00BFFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorgomes8/"/></a>
-<a href="igorgmsf@gmail.com" target="blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/-igorgmsf@gmail.com-DC143C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorgmsf@gmail.com"/></a>
+<a href="mailto:igorgmsf@gmail.com" target="blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/-igorgmsf@gmail.com-DC143C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorgmsf@gmail.com"/></a>
 </p>
 
 <!--
