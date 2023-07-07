@@ -2,6 +2,10 @@
 
 ## I'm Igor Gomes Firmino and I'm currently a Software Engineer. 
 
+
+
+<!--
+**igorgms/igorgms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=igorgms&show_icons=true&theme=dark"> 
 </p>
@@ -14,9 +18,6 @@
 <a href="https://www.linkedin.com/in/igorgomes8/" target="blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Igor%20Gomes%20Firmino-00BFFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igorgomes8/"/></a>
 <a href="mailto:igorgmsf@gmail.com" target="blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/-igorgmsf@gmail.com-DC143C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorgmsf@gmail.com"/></a>
 </p>
-
-<!--
-**igorgms/igorgms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
